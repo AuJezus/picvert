@@ -1,7 +1,7 @@
 # picvert
 ### Usage
 ```
-npm i -g
+npm i picvert -g
 picvert <input directory>
 ```
 
